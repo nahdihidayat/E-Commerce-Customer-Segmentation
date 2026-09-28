@@ -7,7 +7,7 @@ Proyek ini bertujuan untuk menganalisis basis pelanggan dari sebuah perusahaan E
 - Bahasa Pemrograman: Python
 - Manipulasi Data: Pandas
 - Visualisasi Data: Matplotlib, Seaborn
-- Sumber Data: [Olist Brazilian E-Commerce Dataset (Kaggle)](link_kaggle_disini)
+- Sumber Data: [Olist Brazilian E-Commerce Dataset (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ## Langkah Kerja (End-to-End)
 1. Data Pengumpulan: Menggabungkan 3 tabel _database_ yang terpisah (Customers, Orders, Payments).
